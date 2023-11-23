@@ -1,0 +1,16 @@
+date;product;category;quantity;price
+01-01-2023;Product A;Electronics;5;200
+02-01-2023;Product B;Home Appliances;3;150
+03-01-2023;Product C;Furniture;2;300
+04-01-2023;Product A;Electronics;8;180
+05-01-2023;Product B;Home Appliances;6;120
+06-01-2023;Product C;Furniture;4;250
+07-01-2023;Product A;Electronics;3;220
+08-01-2023;Product B;Home Appliances;2;170
+09-01-2023;Product C;Furniture;7;280
+10-01-2023;Product A;Electronics;4;210
+11-01-2023;Product B;Home Appliances;5;160
+12-01-2023;Product C;Furniture;6;270
+13-01-2023;Product A;Electronics;2;230
+14-01-2023;Product B;Home Appliances;3;140
+15-01-2023;Product C;Furniture;8;260
